@@ -37,7 +37,7 @@ body {
 .five {
    grid-template-columns: repeat(1, 1fr);
   grid-template-rows: repeat(1, 1fr);
-  background-color: maroon;
+  background-color: pink;
 }
 .main > div {
   display: flex;
