@@ -10,30 +10,39 @@ body {
   height: 100vh;
   width: 100vw;
 }
-
+#link{
+color:black; 
+text-shadow: 2px 2px grey; 
+border-radius: 15px; 
+}
 .one {
   grid-area: 1 / 1 / 4 / 4;
   background-image: url(https://picsum.photos/800/600/?gravity=center);
+  backgroun-size: cover;
 }
 
 .two {
   grid-area: 1 / 4 / 5 / 6;
-  background-image: url(https://www.stockvault.net/data/2011/03/01/118224/preview16.jpg);
+  background-image: url(https://www.stockvault.net/data/2013/03/04/142504/preview16.jpg);
+  backgroun-size: cover;
 }
 
 .three {
   grid-area: 4 / 1 / 7 / 3;
   background-image: url(https://www.stockvault.net/data/2011/02/24/118151/preview16.jpg);
+  background-size: cover;
 }
 
 .four {
   grid-area: 5 / 3 / 7 / 6;
-  background-image: url(https://www.stockvault.net/data/2015/09/15/178241/preview16.jpg);
+  background-image: url(https://www.stockvault.net/data/2007/03/01/100169/preview16.jpg);
+  background-size: cover;
 }
 
 .five {
   grid-area: 4 / 3 / 5 / 4;
-  background-image: url(https://www.stockvault.net/data/2013/03/04/142504/preview16.jpg);
+  background-image: url(https://www.stockvault.net/data/2010/12/21/116554/preview16.jpg);
+  background-size: cover;
 }
 
 .main > div {
