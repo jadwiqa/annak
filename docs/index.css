@@ -23,17 +23,17 @@ body {
 
 .three {
   grid-area: 4 / 1 / 7 / 3;
-  background-image: url(https://picsum.photos/800/500/?random);
+  background-image: url(https://picsum.photos/800/500);
 }
 
 .four {
   grid-area: 5 / 3 / 7 / 6;
-  background-image: url(https://picsum.photos/800/400/?random);
+  background-image: url(https://picsum.photos/800/400);
 }
 
 .five {
   grid-area: 4 / 3 / 5 / 4;
-  background-image: url(https://picsum.photos/400/300/?random);
+  background-image: url(https://picsum.photos/400/300);
 }
 
 .main > div {
