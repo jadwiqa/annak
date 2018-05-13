@@ -13,27 +13,27 @@ body {
 
 .one {
   grid-area: 1 / 1 / 4 / 4;
-  background-image: url(https://picsum.photos/800/800/?gravity=center);
+  background-image: url(https://picsum.photos/800/600/?gravity=center);
 }
 
 .two {
   grid-area: 1 / 4 / 5 / 6;
-  background-image: url(https://picsum.photos/200/300/?random);
+  background-image: url(https://picsum.photos/800/600);
 }
 
 .three {
   grid-area: 4 / 1 / 7 / 3;
-  background-image: url(https://picsum.photos/200/300/?random);
+  background-image: url(https://picsum.photos/800/500/?random);
 }
 
 .four {
   grid-area: 5 / 3 / 7 / 6;
-  background-image: url(https://picsum.photos/200/300/?random);
+  background-image: url(https://picsum.photos/800/400/?random);
 }
 
 .five {
   grid-area: 4 / 3 / 5 / 4;
-  background-image: url(https://picsum.photos/200/300/?random);
+  background-image: url(https://picsum.photos/400/300/?random);
 }
 
 .main > div {
