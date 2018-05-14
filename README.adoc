@@ -8,7 +8,7 @@ http://gist.asciidoctor.org/?github-jadwiqa%2Fannak%2F%2FREADME.adoc[Atrakcje tu
 
 ## Trasa rowerowa Swarzewo-Krokowa
 
-image::https://github.com/jadwiqa/annak/blob/master/Swarzewo-Krokowa-%C5%9Acie%C5%BCka-rowerowa-640x400.jpg
+image::annak/Swarzewo-Krokowa-Ścieżka-rowerowa-640x400.jpg
 image::
 
 
