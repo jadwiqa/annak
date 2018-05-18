@@ -10,7 +10,9 @@ http://gist.asciidoctor.org/?github-jadwiqa%2Fannak%2F%2FREADME.adoc[Atrakcje tu
 
 image::Swarzewo-Krokowa-Ścieżka-rowerowa-640x400.jpg[]
 Rysunek.1. Ścieżka rowerowa
+
 image::mapakrokowa.png[]
+Rusynek.2. Mapa-przebieg ścieżki rowerowej
 
 ## Fokarium Hel
 
