@@ -16,7 +16,19 @@ image::mapakrokowa.png[]
 image::foka_aktualnosci27022014nb.jpg[]
 
 
+== Atrakcje w danych miejscowościach na pomorzu
 
+[options="footer"]
+|===
+| Miejscowość	|  atrakcja
+
+| Swarzewo	| Ścieżka rowerowa
+| Władysławowo | Ocean Park
+| Chałupy | Szkoły kitesurfingu
+| Jastarnia | Port
+| Hel | Fokarium
+|===
+Tabela. 1. Atrakcje turystyczne na pomorzu
 
 
 
