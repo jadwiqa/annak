@@ -1,6 +1,6 @@
 https://jadwiqa.github.io/annak/
 
-# Atrakcje turystyczne pomorza
+# Atrakcje turystyczne Pomorza
 
 http://gist.asciidoctor.org/?github-jadwiqa%2Fannak%2F%2FREADME.adoc[Atrakcje turystyczne]
 
@@ -19,7 +19,7 @@ Rusynek.2. Mapa-przebieg ścieżki rowerowej
 image::foka_aktualnosci27022014nb.jpg[]
 
 
-== Atrakcje w danych miejscowościach na pomorzu
+== Atrakcje w danych miejscowościach na Pomorzu
 
 [options="footer"]
 |===
